@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a POC for react-i18next internationalization package for React.JS/Next.JS application.

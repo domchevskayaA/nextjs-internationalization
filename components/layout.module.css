@@ -1,7 +1,7 @@
 .container {
-  max-width: 36rem;
-  padding: 0 1rem;
-  margin: 3rem auto 6rem;
+  max-width: 720px;
+  padding: 0 16px;
+  margin: 32px auto 48px;
 }
 
 .header {
@@ -11,15 +11,24 @@
 }
 
 .headerImage {
-  width: 6rem;
-  height: 6rem;
+  width: 100px;
+  height: 100px;
 }
 
 .headerHomeImage {
-  width: 8rem;
-  height: 8rem;
+  width: 150px;
+  height: 150px;
 }
 
 .backToHome {
-  margin: 3rem 0 0;
+  margin: 32px 0 0;
+  color: #009688;
+  cursor: pointer;
+}
+
+.select {
+  border: 1px solid #009688;
+  border-radius: 4px;
+  margin-left: 8px;
+  height: 40px;
 }

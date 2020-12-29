@@ -46,8 +46,8 @@ const Home = ({
         </p>
         <p className={`${utilStyles.headingMd}`}>
           {i18n.t('docs', { lng: state.selectedLang })}:&nbsp;
-          <Link href="https://github.com/i18next/react-i18next">
-            <span className={utilStyles.link}>react-i18next</span>
+          <Link href="https://www.i18next.com/">
+            <span className={utilStyles.link}>i18next</span>
           </Link>
         </p>
       </section>

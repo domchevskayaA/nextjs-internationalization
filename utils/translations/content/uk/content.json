@@ -1,6 +1,6 @@
 {
     "blog": "Блог",
-    "intro": "Це POC для react-i18next - пакета інтернаціоналізації для React.JS / Next.JS додатків.",
+    "intro": "Це POC для i18next - пакета інтернаціоналізації для React.JS / Next.JS додатків.",
     "docs": "Документація",
     "back-button-title": "Назад",
     "site-title": "Next.js Інтернаціоналізація",

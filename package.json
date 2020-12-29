@@ -1,6 +1,7 @@
 {
   "name": "nextjs-internationalization",
   "version": "0.1.0",
+  "author": "Olena Domchevska <Olena.Domchevska@care.com> (https://github.com/domchevskayaA)",
   "private": true,
   "scripts": {
     "dev": "next dev",
